@@ -4,12 +4,27 @@
   background-color: grey;
   float: right;
   margin: 10px;}
-body{
+
+body {
   background-color: black
 }
 p {
   color: white;
   font-family: impact;
   letter-spacing: 1px;
-  width: 80%
+  width: 50%;
+  text-align: center;
+}
+
+
+#center-Paragraph {
+  text-align: center;
+}
+ .center {
+   text-align: center;
+ }
+
+img {
+  
+  float: left;
 }
