@@ -1,0 +1,15 @@
+.sidebar{
+  border: 3px solid red;
+  padding: 2px;
+  background-color: grey;
+  float: right;
+  margin: 10px;}
+body{
+  background-color: black
+}
+p {
+  color: white;
+  font-family: impact;
+  letter-spacing: 1px;
+  width: 80%
+}
